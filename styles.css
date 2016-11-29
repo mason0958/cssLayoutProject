@@ -1,0 +1,21 @@
+#outside-box {
+	height: 300px;
+	width: 300px;
+	background-color: black;
+}
+
+#middle-box {
+	height: 200px;
+	width: 200px;
+	display: block;
+	background-color: blue;
+	margin: auto;
+}
+
+#inside-box {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	text-align: center;
+	margin: auto;
+}
